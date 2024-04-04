@@ -1,6 +1,7 @@
 # pda-java
 
 ### Day 02
+- [source code](https://github.com/bkkmw/pda-java/blob/main/Java_TIL/src/day02/EX03.java)
 - 객체 : Person, Phone, Store
 - 객체 관계
   ```mermaid
