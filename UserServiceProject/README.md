@@ -1,3 +1,12 @@
+## 회원 서비스 프로젝트
+
+### 요구사항
+* 필수 회원 정보 : id, password, 닉네임
+* DB를 대체할 class DAO 별도 구현
+* class DAO는 필드로 Map을 선언하여 DB 대체로 활용
+  
+
+
 ### Class diagram
 
 ```mermaid
